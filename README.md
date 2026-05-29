@@ -44,8 +44,3 @@ O sistema foi concebido para ser uma prova de conceito de boas práticas de dese
 *   **Consulta Avançada:** Implementação de filtros dinâmicos que permitem localizar veículos com base em múltiplos critérios, otimizando o tempo de atendimento em balcão.
 *   **Consistência de Dados:** Uso de tipagem forte e validações via Java para evitar a inserção de dados inconsistentes ou órfãos no banco.
 
----
-
-### 👤 Autor
-**Kevin Soares Figueiredo Costa**  
-*Estudante de Análise e Desenvolvimento de Sistemas - UniFECAF*
